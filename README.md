@@ -33,6 +33,4 @@ src="https://img.shields.io/github/followers/Chuankai1410?logo=github&style=for-
 
 <a href="http://www.github.com/Chuankai1410"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chuankai1410&stroke=6366f1&background=1c1917&ring=f97316&fire=f97316&currStreakNum=6366f1&currStreakLabel=f97316&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-<a href="http://www.github.com/Chuankai1410"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chuankai1410&bg_color=1c1917&color=6366f1&line=10b981&point=6366f1&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Chuankai1410" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuankai1410&langs_count=10&title_color=f97316&text_color=6366f1&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
