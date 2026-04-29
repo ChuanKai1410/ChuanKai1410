@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Chuan Kai 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2800&color=00C2FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Exploring+AI+%26+Full-Stack+Development;Building+Real-World+Projects" />
+</p>
+
+<p align="center">
   🎓 Year 1 Computing Student @ UTM <br/>
   💻 Exploring Software Engineering, AI & Full-Stack Development <br/>
   🚀 Building real-world solutions through projects
